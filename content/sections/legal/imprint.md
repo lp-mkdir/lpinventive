@@ -4,33 +4,30 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Luis Eduardo Pacheco Camejo<br />
++41764061995<br />
+Im Gubel 26<br />
+Rüti, ZH. Zürich<br />
+Switzerland
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>me@lpinventive.com</u>
 
 ---
 
 #### Liability for Contents
 
-As service providers, we are liable for own contents of these websites according to Sec. 7, paragraph 1 German Telemedia Act (TMG). However, according to Sec. 8 to 10 German Telemedia Act (TMG), service providers are not obligated to permanently monitor submitted or stored information or to search for evidences that indicate illegal activities.
+As the service provider, Lpinventive is responsible for the contents of this website according to Swiss federal laws. However, Swiss law does not obligate service providers to continuously monitor submitted or stored information or to search for evidence that indicates illegal activities.
 
-Legal obligations to removing information or to blocking the use of information remain unchallenged. In this case, liability is only possible at the time of knowledge about a specific violation of law. Illegal contents will be removed immediately at the time we get knowledge of them.
-
----
+Legal obligations to remove or block the use of information under Swiss law remain unaffected. Liability in such cases is only possible at the time we become aware of a specific violation of law. Upon becoming aware of any such violations, we will remove the content immediately.
 
 #### Liability for Links
 
-Our offer includes links to external third party websites. We have no influence on the contents of those websites, therefore we cannot guarantee for those contents. Providers or administrators of linked websites are always responsible for their own contents.
+Our website contains links to external third-party websites, over which we have no control. Therefore, we cannot assume any liability for these external contents. The respective provider or operator of the linked websites is always responsible for their own content.
 
-The linked websites had been checked for possible violations of law at the time of the establishment of the link. Illegal contents were not detected at the time of the linking. A permanent monitoring of the contents of linked websites cannot be imposed without reasonable indications that there has been a violation of law. Illegal links will be removed immediately at the time we get knowledge of them.
-
----
+The linked websites were reviewed for possible violations of law at the time the links were established. No illegal content was identified at that time. However, ongoing monitoring of the linked websites is not reasonable without specific indications of legal violations. Upon becoming aware of any such violations, we will remove the links immediately.
 
 #### Copyright
 
-Contents and compilations published on these websites by the providers are subject to German copyright laws. Reproduction, editing, distribution as well as the use of any kind outside the scope of the copyright law require a written permission of the author or originator. Downloads and copies of these websites are permitted for private use only. The commercial use of our contents without permission of the originator is prohibited.
+The content and works on this website created by Lpinventive are governed by Swiss copyright law. Duplication, processing, distribution, and any form of commercialization of such material beyond the scope of the copyright law require the prior written consent of its respective author or creator. Downloads and copies of this website are allowed for private use only, not for commercial use.
 
-Copyright laws of third parties are respected as long as the contents on these websites do not originate from the provider. Contributions of third parties on this site are indicated as such. However, if you notice any violations of copyright law, please inform us. Such contents will be removed immediately.
+We respect third-party copyrights for content on this website that was not created by the provider. Third-party contributions on this site are marked as such. Nevertheless, if you should become aware of a copyright violation, we request that you notify us accordingly. Upon notification of violations, we will remove the relevant content immediately.
